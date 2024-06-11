@@ -14,7 +14,7 @@ There is online compilier for this project.
 Visit: [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js)
 # Acknowledgements
 I would like to acknowledge the professors of whole Meta team which help me so that I completed my project successfully.
-# HOW TO USE
+# EXECUTION
 1.Open Remix IDE adn create a new file and copy paste the following code: 
 
     pragma solidity 0.8.18;
@@ -41,6 +41,8 @@ I would like to acknowledge the professors of whole Meta team which help me so t
 # Authors
 [@abcd150](https://github.com/abcd150)
 # License 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
  
 
