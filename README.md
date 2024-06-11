@@ -16,10 +16,11 @@ Visit: [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&e
 I would like to acknowledge the professors of whole Meta team which help me so that I completed my project successfully.
 # HOW TO USE
 1.Open Remix IDE adn create a new file and copy paste the following code: 
-'''
-pragma solidity 0.8.18;
-contract MyToken {
 
+    pragma solidity 0.8.18;
+    
+    contract MyToken {
+    
     string public tokenname="keshav";
     string public tokenAbbrv="singla";
     uint public totalsupply=0;
@@ -34,8 +35,8 @@ contract MyToken {
             totalsupply += _value;
             balances[_address] -= _value;
      }
-        }
-}'''
+        } }
+
 2.Use Solidity compiler section and deploy and run transaction section for compiling and deploying.
 # Authors
 [@abcd150](https://github.com/abcd150)
