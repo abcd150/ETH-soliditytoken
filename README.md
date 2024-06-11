@@ -40,5 +40,7 @@ I would like to acknowledge the professors of whole Meta team which help me so t
 2.Use Solidity compiler section and deploy and run transaction section for compiling and deploying.
 # Authors
 [@abcd150](https://github.com/abcd150)
+# License 
+This project is licensed under the MIT License.
  
 
