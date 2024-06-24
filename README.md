@@ -32,7 +32,7 @@ I would like to acknowledge the professors of whole Meta team which help me so t
     }
         function burn(address _address, uint _value) public{
             if(balances[_address] >= _value){
-            totalsupply += _value;
+            totalsupply -= _value;
             balances[_address] -= _value;
      }
         } }
